@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "d73a67be12121f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca507d6eb88f3727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375bf5baceeacd0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework 1 (SELECT, LIKE, REGEXP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e7a2f302b9f0bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8836bb09fda5aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad407f87575a4508",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9aeccd6496d8c8bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a8b425f7c76a3f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f1e813a3ce21ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96fb9efccb4707c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5fa6464ba36a7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homework 1 (SELECT, LIKE, REGEXP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a314cd51a0b746cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homework 1 (SELECT, LIKE, REGEXP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3af319cad4f81b1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "671cb4d56a056607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework 1 (SELECT, LIKE, REGEXP).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "375bf5baceeacd0e",
+  "lastOpenFiles": [
+    "Homework 5 (VIEW).md",
+    "Homework 4 (JOIN).md",
+    "Homework 3 (DISTINCT, COUNT(*), GROUP BY, ORDER BY, LIMIT).md",
+    "Homework 2 (CREATE TABLE, DROP, INSERT, ALTER, UPDATE).md",
+    "Homework 1 (SELECT, LIKE, REGEXP).md"
+  ]
+}
